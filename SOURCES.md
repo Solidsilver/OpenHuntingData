@@ -5,6 +5,9 @@
 - [ ] Means failed
 - [X] Means in good shape
 
+Check sources-log.txt for why the sources are failing.
+Check sources-detailed-log.txt for Tracebacks and additional info (dev)
+
 -----------------------------
 
 - [ ] sources/US/AK/ak-legislatively-designated-areas.json
