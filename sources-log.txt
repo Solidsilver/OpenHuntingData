@@ -1,0 +1,1731 @@
+Generating geojson
+
+
+INFO:root:Processing sources/US/AK/ak-legislatively-designated-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -2.3433952752 radians
+ERROR:root:Y can not be computed for latitude -2.3433952752 radians
+ERROR:root:Error processing file sources/US/AK/ak-legislatively-designated-areas.json
+
+
+INFO:root:Processing sources/US/AK/gmus.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AK/specialareas.json
+InvalidLatitudeError: Y can not be computed for latitude -2.26898366869 radians
+ERROR:root:Y can not be computed for latitude -2.26898366869 radians
+ERROR:root:Error processing file sources/US/AK/specialareas.json
+
+
+INFO:root:Processing sources/US/AL/areas-ada.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AL/areas-special.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AL/forever-wild.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AL/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AR/bear.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AR/cwd.json
+InvalidLatitudeError: Y can not be computed for latitude -1.60990576939 radians
+ERROR:root:Y can not be computed for latitude -1.60990576939 radians
+ERROR:root:Error processing file sources/US/AR/cwd.json
+
+
+INFO:root:Processing sources/US/AR/deer.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AR/elk.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AR/turkey.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/AR/wildlife-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57177165169 radians
+ERROR:root:Y can not be computed for latitude -1.57177165169 radians
+ERROR:root:Error processing file sources/US/AR/wildlife-areas.json
+
+
+INFO:root:Processing sources/US/AZ/gmus.json
+InvalidLatitudeError: Y can not be computed for latitude -1.9031980702 radians
+ERROR:root:Y can not be computed for latitude -1.9031980702 radians
+ERROR:root:Error processing file sources/US/AZ/gmus.json
+
+
+INFO:root:Processing sources/US/CA/bighornsheep.json
+InvalidLatitudeError: Y can not be computed for latitude -2.00802179458 radians
+ERROR:root:Y can not be computed for latitude -2.00802179458 radians
+ERROR:root:Error processing file sources/US/CA/bighornsheep.json
+
+
+INFO:root:Processing sources/US/CA/deerhuntunits.json
+INFO:root:Downloading ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/300_399/ds342.zip
+INFO:root:Returning ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/300_399/ds342.zip from local cache at cache/806c1daa1a9382f67f8f62252521adb9595c1310034232c3c81cafc8
+INFO:root:Reading ds342.zip
+ERROR:root:property Zone_Name not found in source feature error processing feature: [REMOVED]
+INFO:root:skipped 0 features, kept 0 features, errored 46 features
+ERROR:root:Result contained no features for sources/US/CA/deerhuntunits.json
+
+
+INFO:root:Processing sources/US/CA/elk.json
+INFO:root:Downloading https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/ca-elk-zones.zip
+INFO:root:Returning https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/ca-elk-zones.zip from local cache at cache/6fdf13e247b790068a939e5b71f26e0c8bd406c9dcfc7c6c80eee445
+
+
+INFO:root:Reading ca-elk-zones.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 23 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -2.05157720165 radians
+ERROR:root:Y can not be computed for latitude -2.05157720165 radians
+ERROR:root:Error processing file sources/US/CA/elk.json
+
+
+INFO:root:Processing sources/US/CA/grouse.json
+InvalidLatitudeError: Y can not be computed for latitude -2.01843666292 radians
+ERROR:root:Y can not be computed for latitude -2.01843666292 radians
+ERROR:root:Error processing file sources/US/CA/grouse.json
+
+
+INFO:root:Processing sources/US/CA/nonlead-ammunition-area.json
+InvalidLatitudeError: Y can not be computed for latitude -2.04720811894 radians
+ERROR:root:Y can not be computed for latitude -2.04720811894 radians
+ERROR:root:Error processing file sources/US/CA/nonlead-ammunition-area.json
+
+
+INFO:root:Processing sources/US/CA/pronghorn.json
+InvalidLatitudeError: Y can not be computed for latitude -2.09434979365 radians
+ERROR:root:Y can not be computed for latitude -2.09434979365 radians
+ERROR:root:Error processing file sources/US/CA/pronghorn.json
+
+
+INFO:root:Processing sources/US/CA/public-hunting-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.9983467015 radians
+ERROR:root:Y can not be computed for latitude -1.9983467015 radians
+ERROR:root:Error processing file sources/US/CA/public-hunting-areas.json
+
+
+INFO:root:Processing sources/US/CA/quail.json
+InvalidLatitudeError: Y can not be computed for latitude -1.99195792378 radians
+ERROR:root:Y can not be computed for latitude -1.99195792378 radians
+ERROR:root:Error processing file sources/US/CA/quail.json
+
+
+INFO:root:Processing sources/US/CO/bear-blackbear-cougar-deer-elk-moose-mountainlion-muledeer-pronghorn-puma-white-taileddeer.json
+InvalidLatitudeError: Y can not be computed for latitude -1.7809637266 radians
+ERROR:root:Y can not be computed for latitude -1.7809637266 radians
+ERROR:root:Error processing file sources/US/CO/bear-blackbear-cougar-deer-elk-moose-mountainlion-muledeer-pronghorn-puma-white-taileddeer.json
+
+
+INFO:root:Processing sources/US/CO/bighornsheep.json
+InvalidLatitudeError: Y can not be computed for latitude -1.79484370182 radians
+ERROR:root:Y can not be computed for latitude -1.79484370182 radians
+ERROR:root:Error processing file sources/US/CO/bighornsheep.json
+
+
+INFO:root:Processing sources/US/CO/mountaingoat.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8379536136 radians
+ERROR:root:Y can not be computed for latitude -1.8379536136 radians
+ERROR:root:Error processing file sources/US/CO/mountaingoat.json
+
+
+INFO:root:Processing sources/US/CO/public-access-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.7810167497 radians
+ERROR:root:Y can not be computed for latitude -1.7810167497 radians
+ERROR:root:Error processing file sources/US/CO/public-access-2017.json
+
+
+INFO:root:Processing sources/US/CO/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.78096671111 radians
+ERROR:root:Y can not be computed for latitude -1.78096671111 radians
+ERROR:root:Error processing file sources/US/CO/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/CO/walk-in-2018.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: /tmp/tmpGkdQOu/CPWWalkInAccess04092018.shp: No such file or directory
+ERROR:root:/tmp/tmpGkdQOu/CPWWalkInAccess04092018.shp: No such file or directory
+ERROR:root:Error processing file sources/US/CO/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/FL/blackbear.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/GA/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/HI/all.json
+INFO:root:Downloading http://files.hawaii.gov/dbedt/op/gis/data/huntareas.shp.zip
+ERROR:root:Failed to download http://files.hawaii.gov/dbedt/op/gis/data/huntareas.shp.zip 
+
+
+INFO:root:Processing sources/US/IA/deer-zones.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57324734502 radians
+ERROR:root:Y can not be computed for latitude -1.57324734502 radians
+ERROR:root:Error processing file sources/US/IA/deer-zones.json
+
+
+INFO:root:Processing sources/US/IA/goose-nohunt-zones.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57417641869 radians
+ERROR:root:Y can not be computed for latitude -1.57417641869 radians
+ERROR:root:Error processing file sources/US/IA/goose-nohunt-zones.json
+
+
+INFO:root:Processing sources/US/IA/grouse-zone.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57361274716 radians
+ERROR:root:Y can not be computed for latitude -1.57361274716 radians
+ERROR:root:Error processing file sources/US/IA/grouse-zone.json
+
+
+INFO:root:Processing sources/US/IA/public-lands.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57326502521 radians
+ERROR:root:Y can not be computed for latitude -1.57326502521 radians
+ERROR:root:Error processing file sources/US/IA/public-lands.json
+
+
+INFO:root:Processing sources/US/IA/refuges.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57596414199 radians
+ERROR:root:Y can not be computed for latitude -1.57596414199 radians
+ERROR:root:Error processing file sources/US/IA/refuges.json
+
+
+INFO:root:Processing sources/US/IA/turkey-zone-fall.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57324149817 radians
+ERROR:root:Y can not be computed for latitude -1.57324149817 radians
+ERROR:root:Error processing file sources/US/IA/turkey-zone-fall.json
+
+
+INFO:root:Processing sources/US/IA/turkey-zone-spring.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57324149817 radians
+ERROR:root:Y can not be computed for latitude -1.57324149817 radians
+ERROR:root:Error processing file sources/US/IA/turkey-zone-spring.json
+
+
+INFO:root:Processing sources/US/IA/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57494120452 radians
+ERROR:root:Y can not be computed for latitude -1.57494120452 radians
+ERROR:root:Error processing file sources/US/IA/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/IA/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57494132669 radians
+ERROR:root:Y can not be computed for latitude -1.57494132669 radians
+ERROR:root:Error processing file sources/US/IA/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/IA/waterfowl-zones.json
+INFO:root:Downloading https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/ia-waterfowl-zones.zip
+INFO:root:Returning https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/ia-waterfowl-zones.zip from local cache at cache/ed0a86c7312dd703bf39263574e8a47c5d48c1a342447a9b5ddd5a54
+INFO:root:Reading ia-waterfowl-zones.zip
+ERROR:root:empty geometry
+INFO:root:skipped 0 features, kept 4 features, errored 1 features
+InvalidLatitudeError: Y can not be computed for latitude -1.57324149817 radians
+ERROR:root:Y can not be computed for latitude -1.57324149817 radians
+ERROR:root:Error processing file sources/US/IA/waterfowl-zones.json
+
+
+INFO:root:Processing sources/US/IA/wildlife-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57539099332 radians
+ERROR:root:Y can not be computed for latitude -1.57539099332 radians
+ERROR:root:Error processing file sources/US/IA/wildlife-areas.json
+
+
+INFO:root:Processing sources/US/ID/antelope.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/0333cc788cd943cabded0aae1ca6914f_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/0333cc788cd943cabded0aae1ca6914f_0.zip from local cache at cache/67e67e04f5ca32f0a0ba46d83a4ac99968aad3e99ae53430272d80f8
+INFO:root:Reading 0333cc788cd943cabded0aae1ca6914f_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/0333cc788cd943cabded0aae1ca6914f_0.zip
+
+
+INFO:root:Processing sources/US/ID/bear.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/a015e7804a594fa3aa3006b116ed8894_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/a015e7804a594fa3aa3006b116ed8894_0.zip from local cache at cache/9caecc2e4505a1d14444dbb22422c576ea3e829500a8b9018fe1e156
+INFO:root:Reading a015e7804a594fa3aa3006b116ed8894_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/a015e7804a594fa3aa3006b116ed8894_0.zip
+
+
+INFO:root:Processing sources/US/ID/beaver.json
+InvalidLatitudeError: Y can not be computed for latitude -1.94554024655 radians
+ERROR:root:Y can not be computed for latitude -1.94554024655 radians
+ERROR:root:Error processing file sources/US/ID/beaver.json
+
+
+INFO:root:Processing sources/US/ID/bighorn.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/18aa24978f0e4862b8e8aa686eac17d3_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/18aa24978f0e4862b8e8aa686eac17d3_0.zip from local cache at cache/310202fe5e4ce685e0cb1d1d19f319717ed6a968a46b473bcd9e1d76
+INFO:root:Reading 18aa24978f0e4862b8e8aa686eac17d3_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/18aa24978f0e4862b8e8aa686eac17d3_0.zip
+
+
+INFO:root:Processing sources/US/ID/deer.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/b774c9d5ffeb475bbd80f2300092bb20_0.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://data.idfggis.opendata.arcgis.com/datasets/b774c9d5ffeb475bbd80f2300092bb20_0.zip 
+
+
+INFO:root:Processing sources/US/ID/elk.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/88d9359aee7f4c40a19471dfc6219e08_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/88d9359aee7f4c40a19471dfc6219e08_0.zip from local cache at cache/68ebd69a45de0dd572c2fef3f018121fd98921d513b1d31441515a7f
+INFO:root:Reading 88d9359aee7f4c40a19471dfc6219e08_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/88d9359aee7f4c40a19471dfc6219e08_0.zip
+
+
+INFO:root:Processing sources/US/ID/gmus.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/b467b48c2cbc46f5b1414e493e7babd9_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/b467b48c2cbc46f5b1414e493e7babd9_0.zip from local cache at cache/ee44f55b0d40fedf70c36b1de533ae687c26aaeacf76f6360f17f44e
+INFO:root:Reading b467b48c2cbc46f5b1414e493e7babd9_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/b467b48c2cbc46f5b1414e493e7babd9_0.zip
+
+
+INFO:root:Processing sources/US/ID/moose.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/d380e869c3a1469eac4de2ecd3a1f0f7_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/d380e869c3a1469eac4de2ecd3a1f0f7_0.zip from local cache at cache/e65518eb2f173e37cf4e22672a4c40226a3ca6e41372f4416e090ad0
+INFO:root:Reading d380e869c3a1469eac4de2ecd3a1f0f7_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/d380e869c3a1469eac4de2ecd3a1f0f7_0.zip
+
+
+INFO:root:Processing sources/US/ID/mountaingoat.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/d082a40554b14a54b951dfee00a701bd_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/d082a40554b14a54b951dfee00a701bd_0.zip from local cache at cache/1f49040cd3109a911f6c6a33dd9c52a98153f17d1fb2f125d5780838
+INFO:root:Reading d082a40554b14a54b951dfee00a701bd_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/d082a40554b14a54b951dfee00a701bd_0.zip
+
+
+INFO:root:Processing sources/US/ID/turkey.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/42b77ccd075c40c2a73a2416b8bd25f3_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/42b77ccd075c40c2a73a2416b8bd25f3_0.zip from local cache at cache/6cbe0e81a3a226756b536a208d24c742341a501cb0b6d7c8303c7a51
+INFO:root:Reading 42b77ccd075c40c2a73a2416b8bd25f3_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/42b77ccd075c40c2a73a2416b8bd25f3_0.zip
+
+
+INFO:root:Processing sources/US/ID/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.93844808368 radians
+ERROR:root:Y can not be computed for latitude -1.93844808368 radians
+ERROR:root:Error processing file sources/US/ID/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/ID/waterfowl.json
+INFO:root:Downloading http://data.idfggis.opendata.arcgis.com/datasets/4e66cb98004a44b195b68bc28c235880_0.zip
+INFO:root:Returning http://data.idfggis.opendata.arcgis.com/datasets/4e66cb98004a44b195b68bc28c235880_0.zip from local cache at cache/e3c616bae897001d9ff863d66e07b9735d076f071efb245dd388b675
+INFO:root:Reading 4e66cb98004a44b195b68bc28c235880_0.zip
+ERROR:root:Unable to open zip file http://data.idfggis.opendata.arcgis.com/datasets/4e66cb98004a44b195b68bc28c235880_0.zip
+
+
+INFO:root:Processing sources/US/IN/hunting-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/KS/fall-walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.65145884748 radians
+ERROR:root:Y can not be computed for latitude -1.65145884748 radians
+ERROR:root:Error processing file sources/US/KS/fall-walk-in-2017.json
+
+
+INFO:root:Processing sources/US/KS/spring-walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.65145876021 radians
+ERROR:root:Y can not be computed for latitude -1.65145876021 radians
+ERROR:root:Error processing file sources/US/KS/spring-walk-in-2017.json
+
+
+INFO:root:Processing sources/US/KS/spring-walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.651459214 radians
+ERROR:root:Y can not be computed for latitude -1.651459214 radians
+ERROR:root:Error processing file sources/US/KS/spring-walk-in-2018.json
+
+
+INFO:root:Processing sources/US/KY/all.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/KY/bear-zones.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/KY/deer-2017.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/KY/deer.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/KY/elk-limited-entry-2017.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/KY/elk-zone.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/LA/wma-2016.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MA/deer.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/ME/all.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MI/comm-forest-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpz5ILM2b1e8b023f10a44fc82f34fc23b7332b9_3.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpz5ILM2b1e8b023f10a44fc82f34fc23b7332b9_3.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/MI/comm-forest-2017.json
+
+
+INFO:root:Processing sources/US/MI/hunter-access-2017.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MI/state-areas-2017.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MI/state-parks-2017.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MI/walk-in-2018.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MI/wildlife-units.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/bear.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/bobcat-fisher-marten-zones.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/deer.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/furbearer-farm-forest-zones.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/furbearer-zones.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/migratorywaterfowl.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/natural-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/ruffledgrouse.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57347877568 radians
+ERROR:root:Y can not be computed for latitude -1.57347877568 radians
+ERROR:root:Error processing file sources/US/MN/ruffledgrouse.json
+
+
+INFO:root:Processing sources/US/MN/turkey.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.61599853928 radians
+ERROR:root:Y can not be computed for latitude -1.61599853928 radians
+ERROR:root:Error processing file sources/US/MN/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/MN/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.61599853928 radians
+ERROR:root:Y can not be computed for latitude -1.61599853928 radians
+ERROR:root:Error processing file sources/US/MN/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/MN/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MN/wildlife-refuges.json
+INFO:root:Downloading ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_wildlife_refuge_inventory/shp_bdry_wildlife_refuge_inventory.zip
+ERROR:root:Failed to download ftp://ftp.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_wildlife_refuge_inventory/shp_bdry_wildlife_refuge_inventory.zip 
+
+
+INFO:root:Processing sources/US/MO/conservation-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MO/dove-2017.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MO/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.57169042406 radians
+ERROR:root:Y can not be computed for latitude -1.57169042406 radians
+ERROR:root:Error processing file sources/US/MO/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/MO/walk-in-2018.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/MT/antelope-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8158353876 radians
+ERROR:root:Y can not be computed for latitude -1.8158353876 radians
+ERROR:root:Error processing file sources/US/MT/antelope-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/antelope-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8158353876 radians
+ERROR:root:Y can not be computed for latitude -1.8158353876 radians
+ERROR:root:Error processing file sources/US/MT/antelope-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/big-game-restricted-areas-2016-2017.json
+INFO:root:Downloading http://data-mtfwp.opendata.arcgis.com/datasets/f94d4378d75d40a38844d0a7dfc07529_0.zip
+INFO:root:Returning http://data-mtfwp.opendata.arcgis.com/datasets/f94d4378d75d40a38844d0a7dfc07529_0.zip from local cache at cache/6aa0c84e2feb48010418fad7a6329ffb59e52f6eb6ae34f3f97502d8
+INFO:root:Reading f94d4378d75d40a38844d0a7dfc07529_0.zip
+ERROR:root:Unable to open zip file http://data-mtfwp.opendata.arcgis.com/datasets/f94d4378d75d40a38844d0a7dfc07529_0.zip
+
+
+INFO:root:Processing sources/US/MT/bighornsheep-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Error processing file sources/US/MT/bighornsheep-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/bighornsheep-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Error processing file sources/US/MT/bighornsheep-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/bison-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583311867 radians
+ERROR:root:Y can not be computed for latitude -1.81583311867 radians
+ERROR:root:Error processing file sources/US/MT/bison-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/bison-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583311867 radians
+ERROR:root:Y can not be computed for latitude -1.81583311867 radians
+ERROR:root:Error processing file sources/US/MT/bison-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/blackbear-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583519561 radians
+ERROR:root:Y can not be computed for latitude -1.81583519561 radians
+ERROR:root:Error processing file sources/US/MT/blackbear-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/blackbear-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583519561 radians
+ERROR:root:Y can not be computed for latitude -1.81583519561 radians
+ERROR:root:Error processing file sources/US/MT/blackbear-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/block-management-areas-2017.json
+INFO:root:Downloading http://data-mtfwp.opendata.arcgis.com/datasets/e3fe3af948ff43bca8ce1928fff37ede_0.zip
+INFO:root:Returning http://data-mtfwp.opendata.arcgis.com/datasets/e3fe3af948ff43bca8ce1928fff37ede_0.zip from local cache at cache/261c6dbab7641a46044ec04e36cd84da3cd3a6911c6c04c1a3b167f5
+INFO:root:Reading e3fe3af948ff43bca8ce1928fff37ede_0.zip
+ERROR:root:Unable to open zip file http://data-mtfwp.opendata.arcgis.com/datasets/e3fe3af948ff43bca8ce1928fff37ede_0.zip
+
+
+INFO:root:Processing sources/US/MT/block-management-areas-2018.json
+INFO:root:Downloading https://opendata.arcgis.com/datasets/c27de035320b4921b0fd981f9f5d8561_0.zip
+INFO:root:Returning https://opendata.arcgis.com/datasets/c27de035320b4921b0fd981f9f5d8561_0.zip from local cache at cache/2491f40b28481b498a0a91a259291d1a7c9e0f2bb4d4cc5c1262385a
+INFO:root:Reading c27de035320b4921b0fd981f9f5d8561_0.zip
+ERROR:root:Unable to open zip file https://opendata.arcgis.com/datasets/c27de035320b4921b0fd981f9f5d8561_0.zip
+
+
+INFO:root:Processing sources/US/MT/deerelklion-2016-2017.json
+INFO:root:Downloading http://data.mtfwp.opendata.arcgis.com/datasets/24ce083cfd6b47988523576fbc0219f6_0.zip
+ERROR:root:Failed to download http://data.mtfwp.opendata.arcgis.com/datasets/24ce083cfd6b47988523576fbc0219f6_0.zip 
+
+
+INFO:root:Processing sources/US/MT/deerelklion-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8158353876 radians
+ERROR:root:Y can not be computed for latitude -1.8158353876 radians
+ERROR:root:Error processing file sources/US/MT/deerelklion-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/moose-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81584299724 radians
+ERROR:root:Y can not be computed for latitude -1.81584299724 radians
+ERROR:root:Error processing file sources/US/MT/moose-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/moose-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81584299724 radians
+ERROR:root:Y can not be computed for latitude -1.81584299724 radians
+ERROR:root:Error processing file sources/US/MT/moose-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/mountaingoat-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Error processing file sources/US/MT/mountaingoat-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/mountaingoat-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Y can not be computed for latitude -1.81583313613 radians
+ERROR:root:Error processing file sources/US/MT/mountaingoat-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/turkey-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583517816 radians
+ERROR:root:Y can not be computed for latitude -1.81583517816 radians
+ERROR:root:Error processing file sources/US/MT/turkey-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/turkey-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81583517816 radians
+ERROR:root:Y can not be computed for latitude -1.81583517816 radians
+ERROR:root:Error processing file sources/US/MT/turkey-2018-2019.json
+
+
+INFO:root:Processing sources/US/MT/upland-game-bird-enhancement-program-access-areas-2017.json
+INFO:root:Downloading http://data-mtfwp.opendata.arcgis.com/datasets/e7196b220e034420b8a405d620e21abd_0.zip
+INFO:root:Returning http://data-mtfwp.opendata.arcgis.com/datasets/e7196b220e034420b8a405d620e21abd_0.zip from local cache at cache/3cec90421c0f57997a750dc860742bb8e2a6ea3985ea1f9bb13b178f
+INFO:root:Reading e7196b220e034420b8a405d620e21abd_0.zip
+ERROR:root:Unable to open zip file http://data-mtfwp.opendata.arcgis.com/datasets/e7196b220e034420b8a405d620e21abd_0.zip
+
+
+INFO:root:Processing sources/US/MT/upland-game-bird-enhancement-program-access-areas-2018.json
+INFO:root:Downloading https://opendata.arcgis.com/datasets/83c247c0c67a40d6a5fa2d26f4d76251_0.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://opendata.arcgis.com/datasets/83c247c0c67a40d6a5fa2d26f4d76251_0.zip 
+
+
+INFO:root:Processing sources/US/MT/wma.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8190040154 radians
+ERROR:root:Y can not be computed for latitude -1.8190040154 radians
+ERROR:root:Error processing file sources/US/MT/wma.json
+
+
+INFO:root:Processing sources/US/MT/wolf-2016-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81584297978 radians
+ERROR:root:Y can not be computed for latitude -1.81584297978 radians
+ERROR:root:Error processing file sources/US/MT/wolf-2016-2017.json
+
+
+INFO:root:Processing sources/US/MT/wolf-2018-2019.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81584297978 radians
+ERROR:root:Y can not be computed for latitude -1.81584297978 radians
+ERROR:root:Error processing file sources/US/MT/wolf-2018-2019.json
+
+
+INFO:root:Processing sources/US/NC/all.json
+INFO:root:Downloading http://data.nconemap.gov/downloads/vector/gml.zip
+INFO:root:Returning http://data.nconemap.gov/downloads/vector/gml.zip from local cache at cache/4031b60b93bdf9410939f6624aaf0427b804626f47eec29b4d94c750
+INFO:root:Reading gml.zip
+ERROR:root:Unable to open zip file http://data.nconemap.gov/downloads/vector/gml.zip
+
+
+INFO:root:Processing sources/US/ND/bighorn.json
+InvalidLatitudeError: Y can not be computed for latitude -1.79331791754 radians
+ERROR:root:Y can not be computed for latitude -1.79331791754 radians
+ERROR:root:Error processing file sources/US/ND/bighorn.json
+
+
+INFO:root:Processing sources/US/ND/bobcat.json
+InvalidLatitudeError: Y can not be computed for latitude -1.75418250444 radians
+ERROR:root:Y can not be computed for latitude -1.75418250444 radians
+ERROR:root:Error processing file sources/US/ND/bobcat.json
+
+
+INFO:root:Processing sources/US/ND/deer.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/deer.json
+
+
+INFO:root:Processing sources/US/ND/elk.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/elk.json
+
+
+INFO:root:Processing sources/US/ND/fallturkey.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/fallturkey.json
+
+
+INFO:root:Processing sources/US/ND/fisher.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/fisher.json
+
+
+INFO:root:Processing sources/US/ND/goose.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/goose.json
+
+
+INFO:root:Processing sources/US/ND/grouse-ruffed.json
+InvalidLatitudeError: Y can not be computed for latitude -1.69454444682 radians
+ERROR:root:Y can not be computed for latitude -1.69454444682 radians
+ERROR:root:Error processing file sources/US/ND/grouse-ruffed.json
+
+
+INFO:root:Processing sources/US/ND/grouse-sharptail.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68533558354 radians
+ERROR:root:Y can not be computed for latitude -1.68533558354 radians
+ERROR:root:Error processing file sources/US/ND/grouse-sharptail.json
+
+
+INFO:root:Processing sources/US/ND/moose.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/moose.json
+
+
+INFO:root:Processing sources/US/ND/mtn-lion.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/mtn-lion.json
+
+
+INFO:root:Processing sources/US/ND/non-resident-waterfowl.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/non-resident-waterfowl.json
+
+
+INFO:root:Processing sources/US/ND/pronghorn.json
+InvalidLatitudeError: Y can not be computed for latitude -1.75418250444 radians
+ERROR:root:Y can not be computed for latitude -1.75418250444 radians
+ERROR:root:Error processing file sources/US/ND/pronghorn.json
+
+
+INFO:root:Processing sources/US/ND/snadhill-crane.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/snadhill-crane.json
+
+
+INFO:root:Processing sources/US/ND/turkey-spring.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/turkey-spring.json
+
+
+INFO:root:Processing sources/US/ND/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68990722917 radians
+ERROR:root:Y can not be computed for latitude -1.68990722917 radians
+ERROR:root:Error processing file sources/US/ND/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/ND/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68990722917 radians
+ERROR:root:Y can not be computed for latitude -1.68990722917 radians
+ERROR:root:Error processing file sources/US/ND/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/ND/waterfowl.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Y can not be computed for latitude -1.68519883699 radians
+ERROR:root:Error processing file sources/US/ND/waterfowl.json
+
+
+INFO:root:Processing sources/US/ND/wildlife-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.69154593626 radians
+ERROR:root:Y can not be computed for latitude -1.69154593626 radians
+ERROR:root:Error processing file sources/US/ND/wildlife-areas.json
+
+
+INFO:root:Processing sources/US/NE/antelope-firearm.json
+InvalidLatitudeError: Y can not be computed for latitude -1.7250970986 radians
+ERROR:root:Y can not be computed for latitude -1.7250970986 radians
+ERROR:root:Error processing file sources/US/NE/antelope-firearm.json
+
+
+INFO:root:Processing sources/US/NE/antelope-muzzleloader.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/antelope-muzzleloader.json
+
+
+INFO:root:Processing sources/US/NE/bighorn.json
+InvalidLatitudeError: Y can not be computed for latitude -1.78034411726 radians
+ERROR:root:Y can not be computed for latitude -1.78034411726 radians
+ERROR:root:Error processing file sources/US/NE/bighorn.json
+
+
+INFO:root:Processing sources/US/NE/darkgoose.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/darkgoose.json
+
+
+INFO:root:Processing sources/US/NE/deer-antlerless.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/deer-antlerless.json
+
+
+INFO:root:Processing sources/US/NE/deer-firearm.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/deer-firearm.json
+
+
+INFO:root:Processing sources/US/NE/deer-river-antlerless.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/deer-river-antlerless.json
+
+
+INFO:root:Processing sources/US/NE/duck.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/duck.json
+
+
+INFO:root:Processing sources/US/NE/elk.json
+InvalidLatitudeError: Y can not be computed for latitude -1.71049029846 radians
+ERROR:root:Y can not be computed for latitude -1.71049029846 radians
+ERROR:root:Error processing file sources/US/NE/elk.json
+
+
+INFO:root:Processing sources/US/NE/goose.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/goose.json
+
+
+INFO:root:Processing sources/US/NE/muledeer.json
+InvalidLatitudeError: Y can not be computed for latitude -1.7029293227 radians
+ERROR:root:Y can not be computed for latitude -1.7029293227 radians
+ERROR:root:Error processing file sources/US/NE/muledeer.json
+
+
+INFO:root:Processing sources/US/NE/public-hunting-other.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66568301908 radians
+ERROR:root:Y can not be computed for latitude -1.66568301908 radians
+ERROR:root:Error processing file sources/US/NE/public-hunting-other.json
+
+
+INFO:root:Processing sources/US/NE/public-hunting-state.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66568301908 radians
+ERROR:root:Y can not be computed for latitude -1.66568301908 radians
+ERROR:root:Error processing file sources/US/NE/public-hunting-state.json
+
+
+INFO:root:Processing sources/US/NE/teal.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Y can not be computed for latitude -1.66344346495 radians
+ERROR:root:Error processing file sources/US/NE/teal.json
+
+
+INFO:root:Processing sources/US/NE/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66748095256 radians
+ERROR:root:Y can not be computed for latitude -1.66748095256 radians
+ERROR:root:Error processing file sources/US/NE/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/NE/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66748095256 radians
+ERROR:root:Y can not be computed for latitude -1.66748095256 radians
+ERROR:root:Error processing file sources/US/NE/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/NH/all.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NJ/deer.json
+INFO:root:Downloading http://www.nj.gov/dep/gis/digidownload/zips/statewide/Envr_admin_deer_zone.zip
+INFO:root:Returning http://www.nj.gov/dep/gis/digidownload/zips/statewide/Envr_admin_deer_zone.zip from local cache at cache/a32b0ad1b5d66d60d62f59f73e9c0b846107963fbe4002b60f30080c
+INFO:root:Reading Envr_admin_deer_zone.zip
+ERROR:root:Unable to open zip file http://www.nj.gov/dep/gis/digidownload/zips/statewide/Envr_admin_deer_zone.zip
+
+
+INFO:root:Processing sources/US/NJ/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NM/deer-elk-pronghornantelope-bighornsheep-barbarysheep-turkey-bear-cougar-persianibex-oryx-javelina.json
+INFO:root:Downloading http://www.wildlife.state.nm.us/download/hunting/maps/NM_GMU_Shapefile-201606.zip
+ERROR:root:Failed to download http://www.wildlife.state.nm.us/download/hunting/maps/NM_GMU_Shapefile-201606.zip 
+
+
+INFO:root:Processing sources/US/NM/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81101258909 radians
+ERROR:root:Y can not be computed for latitude -1.81101258909 radians
+ERROR:root:Error processing file sources/US/NM/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/NV/all.json
+INFO:root:Downloading http://gis.ndow.nv.gov/ndowdata/data/NDOW_GameManagementUnits_2016.zip
+ERROR:root:Failed to download http://gis.ndow.nv.gov/ndowdata/data/NDOW_GameManagementUnits_2016.zip 
+
+
+INFO:root:Processing sources/US/NV/wildlife-areas.json
+INFO:root:Downloading http://gis.ndow.nv.gov/ndowdata/data/NDOW_WildlifeManagementAreas_2016.zip
+ERROR:root:Failed to download http://gis.ndow.nv.gov/ndowdata/data/NDOW_WildlifeManagementAreas_2016.zip 
+
+
+INFO:root:Processing sources/US/NY/easements.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NY/forest.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NY/goose.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NY/parks.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NY/waterfowl.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NY/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/NY/wildlife-units.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/OH/forests.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/OH/parks.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: /tmp/tmpv50Ke_/OH-StateParks.shp: No such file or directory
+ERROR:root:/tmp/tmpv50Ke_/OH-StateParks.shp: No such file or directory
+ERROR:root:Error processing file sources/US/OH/parks.json
+
+
+INFO:root:Processing sources/US/OH/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/OK/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.66687097744 radians
+ERROR:root:Y can not be computed for latitude -1.66687097744 radians
+ERROR:root:Error processing file sources/US/OK/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/OK/walk-in-2018.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: /tmp/tmptGSiKt/ok-walk-in-july2018.shp: No such file or directory
+ERROR:root:/tmp/tmptGSiKt/ok-walk-in-july2018.shp: No such file or directory
+ERROR:root:Error processing file sources/US/OK/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/OK/wildlife-areas.json
+INFO:root:Downloading https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/OK-WMAs.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/OK-WMAs.zip 
+
+
+INFO:root:Processing sources/US/OR/all.json
+INFO:root:Downloading https://nrimp.dfw.state.or.us/web%20stores/data%20libraries/files/ODFW/ODFW_805_5_wildlife_mgmt_units.zip
+INFO:root:Returning https://nrimp.dfw.state.or.us/web%20stores/data%20libraries/files/ODFW/ODFW_805_5_wildlife_mgmt_units.zip from local cache at cache/01ed36a2356c2aabb1206882ab22c27970de1ed07e3e78a6a2c4b85b
+INFO:root:Reading ODFW_805_5_wildlife_mgmt_units.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 69 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -2.03267603635 radians
+ERROR:root:Y can not be computed for latitude -2.03267603635 radians
+ERROR:root:Error processing file sources/US/OR/all.json
+
+
+INFO:root:Processing sources/US/OR/wildlife-areas-refuges.json
+INFO:root:Downloading https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/OR_WIldlifeAreas_Refuges.zip
+INFO:root:Returning https://data.openbounds.org.s3.amazonaws.com/USAHunting/manual-downloads/OR_WIldlifeAreas_Refuges.zip from local cache at cache/c4edecf4e9ecbdc0ddea36067247934180a8ad8b278e92d92fd067b9
+INFO:root:Reading OR_WIldlifeAreas_Refuges.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 64 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -2.04023359126 radians
+ERROR:root:Y can not be computed for latitude -2.04023359126 radians
+ERROR:root:Error processing file sources/US/OR/wildlife-areas-refuges.json
+
+
+INFO:root:Processing sources/US/PA/cwd-untis-2017.json
+INFO:root:Downloading ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_CWDManagementUnits2017.zip
+ERROR:root:Failed to download ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_CWDManagementUnits2017.zip 
+
+
+INFO:root:Processing sources/US/PA/elk-2017.json
+INFO:root:Downloading ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_ElkManagementZones2017.zip
+ERROR:root:Failed to download ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_ElkManagementZones2017.zip 
+
+
+INFO:root:Processing sources/US/PA/game-lands-2017.json
+INFO:root:Downloading ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_StateGameland2017.zip
+ERROR:root:Failed to download ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_StateGameland2017.zip 
+
+
+INFO:root:Processing sources/US/PA/walk-in-2018.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/PA/wmu-2017.json
+INFO:root:Downloading ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_BNDWildlifeManagementUnits2017.zip
+ERROR:root:Failed to download ftp://ftp.pasda.psu.edu/pub/pasda/pgc/PGC_BNDWildlifeManagementUnits2017.zip 
+
+
+INFO:root:Processing sources/US/RI/deer.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/SC/game-zones.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/SC/public-lands.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/SD/antelope-bow.json
+InvalidLatitudeError: Y can not be computed for latitude -1.72264803514 radians
+ERROR:root:Y can not be computed for latitude -1.72264803514 radians
+ERROR:root:Error processing file sources/US/SD/antelope-bow.json
+
+
+INFO:root:Processing sources/US/SD/antelope-gun.json
+InvalidLatitudeError: Y can not be computed for latitude -1.73310981793 radians
+ERROR:root:Y can not be computed for latitude -1.73310981793 radians
+ERROR:root:Error processing file sources/US/SD/antelope-gun.json
+
+
+INFO:root:Processing sources/US/SD/bighorn.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8011712534 radians
+ERROR:root:Y can not be computed for latitude -1.8011712534 radians
+ERROR:root:Error processing file sources/US/SD/bighorn.json
+
+
+INFO:root:Processing sources/US/SD/deer-bow-muzzleloader.json
+InvalidLatitudeError: Y can not be computed for latitude -1.6831360498 radians
+ERROR:root:Y can not be computed for latitude -1.6831360498 radians
+ERROR:root:Error processing file sources/US/SD/deer-bow-muzzleloader.json
+
+
+INFO:root:Processing sources/US/SD/deer.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68313618943 radians
+ERROR:root:Y can not be computed for latitude -1.68313618943 radians
+ERROR:root:Error processing file sources/US/SD/deer.json
+
+
+INFO:root:Processing sources/US/SD/elk-blackhills-antlerless.json
+InvalidLatitudeError: Y can not be computed for latitude -1.80081915067 radians
+ERROR:root:Y can not be computed for latitude -1.80081915067 radians
+ERROR:root:Error processing file sources/US/SD/elk-blackhills-antlerless.json
+
+
+INFO:root:Processing sources/US/SD/elk-blackhills.json
+InvalidLatitudeError: Y can not be computed for latitude -1.80081915067 radians
+ERROR:root:Y can not be computed for latitude -1.80081915067 radians
+ERROR:root:Error processing file sources/US/SD/elk-blackhills.json
+
+
+INFO:root:Processing sources/US/SD/elk-bow.json
+InvalidLatitudeError: Y can not be computed for latitude -1.80084435323 radians
+ERROR:root:Y can not be computed for latitude -1.80084435323 radians
+ERROR:root:Error processing file sources/US/SD/elk-bow.json
+
+
+INFO:root:Processing sources/US/SD/elk-csp-antlerless.json
+InvalidLatitudeError: Y can not be computed for latitude -1.80382211183 radians
+ERROR:root:Y can not be computed for latitude -1.80382211183 radians
+ERROR:root:Error processing file sources/US/SD/elk-csp-antlerless.json
+
+
+INFO:root:Processing sources/US/SD/elk-csp.json
+InvalidLatitudeError: Y can not be computed for latitude -1.8035990762 radians
+ERROR:root:Y can not be computed for latitude -1.8035990762 radians
+ERROR:root:Error processing file sources/US/SD/elk-csp.json
+
+
+INFO:root:Processing sources/US/SD/elk-prairie.json
+InvalidLatitudeError: Y can not be computed for latitude -1.75792820791 radians
+ERROR:root:Y can not be computed for latitude -1.75792820791 radians
+ERROR:root:Error processing file sources/US/SD/elk-prairie.json
+
+
+INFO:root:Processing sources/US/SD/game-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68337870293 radians
+ERROR:root:Y can not be computed for latitude -1.68337870293 radians
+ERROR:root:Error processing file sources/US/SD/game-areas.json
+
+
+INFO:root:Processing sources/US/SD/mtn-goat.json
+InvalidLatitudeError: Y can not be computed for latitude -1.80082710938 radians
+ERROR:root:Y can not be computed for latitude -1.80082710938 radians
+ERROR:root:Error processing file sources/US/SD/mtn-goat.json
+
+
+INFO:root:Processing sources/US/SD/state-parks.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68444145136 radians
+ERROR:root:Y can not be computed for latitude -1.68444145136 radians
+ERROR:root:Error processing file sources/US/SD/state-parks.json
+
+
+INFO:root:Processing sources/US/SD/turkey-fall.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68329136665 radians
+ERROR:root:Y can not be computed for latitude -1.68329136665 radians
+ERROR:root:Error processing file sources/US/SD/turkey-fall.json
+
+
+INFO:root:Processing sources/US/SD/turkey-spring.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68313613707 radians
+ERROR:root:Y can not be computed for latitude -1.68313613707 radians
+ERROR:root:Error processing file sources/US/SD/turkey-spring.json
+
+
+INFO:root:Processing sources/US/SD/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68340364368 radians
+ERROR:root:Y can not be computed for latitude -1.68340364368 radians
+ERROR:root:Error processing file sources/US/SD/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/SD/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68340837353 radians
+ERROR:root:Y can not be computed for latitude -1.68340837353 radians
+ERROR:root:Error processing file sources/US/SD/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/SD/waterfowl-duck.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68313599744 radians
+ERROR:root:Y can not be computed for latitude -1.68313599744 radians
+ERROR:root:Error processing file sources/US/SD/waterfowl-duck.json
+
+
+INFO:root:Processing sources/US/SD/waterfowl-goose.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68313599744 radians
+ERROR:root:Y can not be computed for latitude -1.68313599744 radians
+ERROR:root:Error processing file sources/US/SD/waterfowl-goose.json
+
+
+INFO:root:Processing sources/US/SD/waterfowl-nonresident.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68313442665 radians
+ERROR:root:Y can not be computed for latitude -1.68313442665 radians
+ERROR:root:Error processing file sources/US/SD/waterfowl-nonresident.json
+
+
+INFO:root:Processing sources/US/SD/waterfowl-swan.json
+InvalidLatitudeError: Y can not be computed for latitude -1.68342322628 radians
+ERROR:root:Y can not be computed for latitude -1.68342322628 radians
+ERROR:root:Error processing file sources/US/SD/waterfowl-swan.json
+
+
+INFO:root:Processing sources/US/TN/deer.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/TN/elk.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmp5v4Nijb97f1ce0d0214a55962934fd46f3ea22_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmp5v4Nijb97f1ce0d0214a55962934fd46f3ea22_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/TN/elk.json
+
+
+INFO:root:Processing sources/US/TN/tva-all.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/TN/wma.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpnfVTC98e9f8135c6594c959ae777d1c6830127_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpnfVTC98e9f8135c6594c959ae777d1c6830127_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/TN/wma.json
+
+
+INFO:root:Processing sources/US/TX/dove-zones.json
+InvalidLatitudeError: Y can not be computed for latitude -1.63201931791 radians
+ERROR:root:Y can not be computed for latitude -1.63201931791 radians
+ERROR:root:Error processing file sources/US/TX/dove-zones.json
+
+
+INFO:root:Processing sources/US/TX/walk-in-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.64155853711 radians
+ERROR:root:Y can not be computed for latitude -1.64155853711 radians
+ERROR:root:Error processing file sources/US/TX/walk-in-2017.json
+
+
+INFO:root:Processing sources/US/TX/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.64155853711 radians
+ERROR:root:Y can not be computed for latitude -1.64155853711 radians
+ERROR:root:Error processing file sources/US/TX/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/TX/wildlife-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.63529186262 radians
+ERROR:root:Y can not be computed for latitude -1.63529186262 radians
+ERROR:root:Error processing file sources/US/TX/wildlife-areas.json
+
+
+INFO:root:Processing sources/US/UT/anybullelk-generalseason-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_AnyBullElk_Gen.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_AnyBullElk_Gen.zip 
+
+
+INFO:root:Processing sources/US/UT/anybullelk-generalseason.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_AnyBullElk_Gen.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_AnyBullElk_Gen.zip 
+
+
+INFO:root:Processing sources/US/UT/bison-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Bison.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Bison.zip 
+
+
+INFO:root:Processing sources/US/UT/bison.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Bison.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Bison.zip 
+
+
+INFO:root:Processing sources/US/UT/blackbear-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Black_Bear.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Black_Bear.zip 
+
+
+INFO:root:Processing sources/US/UT/blackbear.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Black_Bear.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Black_Bear.zip 
+
+
+INFO:root:Processing sources/US/UT/cougar-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Cougar.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Cougar.zip 
+
+
+INFO:root:Processing sources/US/UT/cougar.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Cougar.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Cougar.zip 
+
+
+INFO:root:Processing sources/US/UT/deer-generalseason-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_DeerGen.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_DeerGen.zip 
+
+
+INFO:root:Processing sources/US/UT/deer-generalseason.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_DeerGen.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_DeerGen.zip 
+
+
+INFO:root:Processing sources/US/UT/deer-limitedentry-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_DeerLE.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_DeerLE.zip 
+
+
+INFO:root:Processing sources/US/UT/deer-limitedentry.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_DeerLE.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_DeerLE.zip 
+
+
+INFO:root:Processing sources/US/UT/desertbighorn-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_DesBighorn.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_DesBighorn.zip 
+
+
+INFO:root:Processing sources/US/UT/desertbighorn.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_DesBighorn.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_DesBighorn.zip 
+
+
+INFO:root:Processing sources/US/UT/elk-limitedentry-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_ElkLE.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_ElkLE.zip 
+
+
+INFO:root:Processing sources/US/UT/elk-limitedentry.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_ElkLE.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_ElkLE.zip 
+
+
+INFO:root:Processing sources/US/UT/moose-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Moose.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Moose.zip 
+
+
+INFO:root:Processing sources/US/UT/moose.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Moose.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Moose.zip 
+
+
+INFO:root:Processing sources/US/UT/pronghorn-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Pronghorn.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_Pronghorn.zip 
+
+
+INFO:root:Processing sources/US/UT/pronghorn.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Pronghorn.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_Pronghorn.zip 
+
+
+INFO:root:Processing sources/US/UT/rockymountainbighornsheep-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_RMBighorn.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_RMBighorn.zip 
+
+
+INFO:root:Processing sources/US/UT/rockymountainbighornsheep.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_RMBighorn.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_RMBighorn.zip 
+
+
+INFO:root:Processing sources/US/UT/rockymountaingoat-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_MtGoat.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_MtGoat.zip 
+
+
+INFO:root:Processing sources/US/UT/rockymountaingoat.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_RMGoat.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_RMGoat.zip 
+
+
+INFO:root:Processing sources/US/UT/spikeelk-generalseason-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_SpikeElk_Gen.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_SpikeElk_Gen.zip 
+
+
+INFO:root:Processing sources/US/UT/spikeelk-generalseason.json
+INFO:root:Downloading http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_SpikeElk_Gen.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download http://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2016_SpikeElk_Gen.zip 
+
+
+INFO:root:Processing sources/US/UT/walk-in-2017.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_CWMUs.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2017_CWMUs.zip 
+
+
+INFO:root:Processing sources/US/UT/walk-in-2018.json
+INFO:root:Downloading https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2018_CWMUs.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://dwrcdc.nr.utah.gov/ucdc/DownloadGIS/Data/Abiotic/2018_CWMUs.zip 
+
+
+INFO:root:Processing sources/US/UT/wildlife-areas.json
+InvalidLatitudeError: Y can not be computed for latitude -1.90586360685 radians
+ERROR:root:Y can not be computed for latitude -1.90586360685 radians
+ERROR:root:Error processing file sources/US/UT/wildlife-areas.json
+
+
+INFO:root:Processing sources/US/VA/forest.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/VA/grouse-small-game.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/VA/state-parks.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/VA/wildlife-areas.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: /tmp/tmp9rJOkD/VDGIF_Wildlife_Management_Area_WMA_Boundaries.shp: No such file or directory
+ERROR:root:/tmp/tmp9rJOkD/VDGIF_Wildlife_Management_Area_WMA_Boundaries.shp: No such file or directory
+ERROR:root:Error processing file sources/US/VA/wildlife-areas.json
+
+
+INFO:root:Processing sources/US/VT/wildlife-areas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/VT/wildlife-units.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/WA/all-2016-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpWz0uYNe4b4b1e2275842c3a8d6ca6d7d8cd261_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpWz0uYNe4b4b1e2275842c3a8d6ca6d7d8cd261_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/WA/all-2016-2017.json
+
+
+INFO:root:Processing sources/US/WA/all-2016.json
+INFO:root:Downloading https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Game_Management_Units.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Game_Management_Units.zip 
+
+
+INFO:root:Processing sources/US/WA/bighornsheep-2016.json
+INFO:root:Downloading https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Bighorn_Sheep_Units.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Bighorn_Sheep_Units.zip 
+
+
+INFO:root:Processing sources/US/WA/moose-2016.json
+INFO:root:Downloading https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Moose_Units.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Moose_Units.zip 
+
+
+INFO:root:Processing sources/US/WA/mountaingoat-2016.json
+INFO:root:Downloading https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Mountain_Goat_Units.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://fortress.wa.gov/dfw/public/PublicDownload/wildlife/hunts2016/Mountain_Goat_Units.zip 
+
+
+INFO:root:Processing sources/US/WA/wildlife-areas-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpQtdKG389e677d17858438b9befb2963f0bd92f_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpQtdKG389e677d17858438b9befb2963f0bd92f_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/WA/wildlife-areas-2017.json
+
+
+INFO:root:Processing sources/US/WI/bear.json
+INFO:root:Downloading ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/bear_mgmt_zones.ZIP
+ERROR:root:Failed to download ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/bear_mgmt_zones.ZIP 
+
+
+INFO:root:Processing sources/US/WI/deersubunits.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/WI/deerunits.json
+INFO:root:Downloading ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/deer_mgmt_units.zip
+ERROR:root:Failed to download ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/deer_mgmt_units.zip 
+
+
+INFO:root:Processing sources/US/WI/deerzones.json
+INFO:root:Downloading ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/deer_mgmt_zones.zip
+ERROR:root:Failed to download ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/deer_mgmt_zones.zip 
+
+
+INFO:root:Processing sources/US/WI/turkey.json
+INFO:root:Downloading ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/turkey_mgmt_zones.ZIP
+ERROR:root:Failed to download ftp://dnrftp01.wi.gov/geodata/wildlife_mgmt/turkey_mgmt_zones.ZIP 
+
+
+INFO:root:Processing sources/US/WV/wildlifemanagementareas.json
+SUCCESS
+
+
+INFO:root:Processing sources/US/WY/antelope-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/AntelopeHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/AntelopeHuntAreas.zip from local cache at cache/35b65c8461ab265e75a31575301c72759a4cb4bafe3df1eeca3b2d10
+INFO:root:Reading AntelopeHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 102 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81607104196 radians
+ERROR:root:Y can not be computed for latitude -1.81607104196 radians
+ERROR:root:Error processing file sources/US/WY/antelope-2016.json
+
+
+INFO:root:Processing sources/US/WY/antelope-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpV2bVy8a8f4aa4b22994398904dffce6f5fc064_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpV2bVy8a8f4aa4b22994398904dffce6f5fc064_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/WY/antelope-2017.json
+
+
+INFO:root:Processing sources/US/WY/bighornsheep-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/BighornSheepHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/BighornSheepHuntAreas.zip from local cache at cache/b7db4e0964948fa36993cccf4f7d31bd4100b77cbcfae8c08f43afd5
+INFO:root:Reading BighornSheepHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 19 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81610532022 radians
+ERROR:root:Y can not be computed for latitude -1.81610532022 radians
+ERROR:root:Error processing file sources/US/WY/bighornsheep-2016.json
+
+
+INFO:root:Processing sources/US/WY/bighornsheep-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81610551221 radians
+ERROR:root:Y can not be computed for latitude -1.81610551221 radians
+ERROR:root:Error processing file sources/US/WY/bighornsheep-2017.json
+
+
+INFO:root:Processing sources/US/WY/bison-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/BisonHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/BisonHuntAreas.zip from local cache at cache/a52f4204ab8305851e6dec434afa42f5dfd2e2cdccc72f153e3611f5
+INFO:root:Reading BisonHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 3 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.87624704496 radians
+ERROR:root:Y can not be computed for latitude -1.87624704496 radians
+ERROR:root:Error processing file sources/US/WY/bison-2016.json
+
+
+INFO:root:Processing sources/US/WY/bison-2017.json
+InvalidLatitudeError: Y can not be computed for latitude -1.87624723694 radians
+ERROR:root:Y can not be computed for latitude -1.87624723694 radians
+ERROR:root:Error processing file sources/US/WY/bison-2017.json
+
+
+INFO:root:Processing sources/US/WY/blackbear-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/BlackBear_HuntAreasManagementUnits.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/BlackBear_HuntAreasManagementUnits.zip 
+
+
+INFO:root:Processing sources/US/WY/bobcat-2015.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81606095395 radians
+ERROR:root:Y can not be computed for latitude -1.81606095395 radians
+ERROR:root:Error processing file sources/US/WY/bobcat-2015.json
+
+
+INFO:root:Processing sources/US/WY/elk-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/ElkHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/ElkHuntAreas.zip from local cache at cache/ca8309eb9e2bf429ed2c28ec2eacb507a87db90b5edb7a3d0b87547b
+INFO:root:Reading ElkHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 106 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81607104196 radians
+ERROR:root:Y can not be computed for latitude -1.81607104196 radians
+ERROR:root:Error processing file sources/US/WY/elk-2016.json
+
+
+INFO:root:Processing sources/US/WY/elk-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmp4ZhFQ696a3f0784bcc42db8ece2d4e9fb0a734_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmp4ZhFQ696a3f0784bcc42db8ece2d4e9fb0a734_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/WY/elk-2017.json
+
+
+INFO:root:Processing sources/US/WY/hma-walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.82743400805 radians
+ERROR:root:Y can not be computed for latitude -1.82743400805 radians
+ERROR:root:Error processing file sources/US/WY/hma-walk-in-2018.json
+
+
+INFO:root:Processing sources/US/WY/moose-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/MuleDeerHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/MuleDeerHuntAreas.zip from local cache at cache/73eec3e572488aa38ab60f1ed454fbeff1618d6ff7e9216d62b1d0df
+INFO:root:Reading MuleDeerHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 129 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81607057072 radians
+ERROR:root:Y can not be computed for latitude -1.81607057072 radians
+ERROR:root:Error processing file sources/US/WY/moose-2016.json
+
+
+INFO:root:Processing sources/US/WY/mountainlion-2015.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81607001221 radians
+ERROR:root:Y can not be computed for latitude -1.81607001221 radians
+ERROR:root:Error processing file sources/US/WY/mountainlion-2015.json
+
+
+INFO:root:Processing sources/US/WY/mountainlion-2016.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81607001221 radians
+ERROR:root:Y can not be computed for latitude -1.81607001221 radians
+ERROR:root:Error processing file sources/US/WY/mountainlion-2016.json
+
+
+INFO:root:Processing sources/US/WY/muledeer-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/MuleDeerHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/MuleDeerHuntAreas.zip from local cache at cache/73eec3e572488aa38ab60f1ed454fbeff1618d6ff7e9216d62b1d0df
+INFO:root:Reading MuleDeerHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 129 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81607057072 radians
+ERROR:root:Y can not be computed for latitude -1.81607057072 radians
+ERROR:root:Error processing file sources/US/WY/muledeer-2016.json
+
+
+INFO:root:Processing sources/US/WY/muledeer-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpyPhqSCdc3741c643be4daaafca2ae0b15b2407_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpyPhqSCdc3741c643be4daaafca2ae0b15b2407_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/WY/muledeer-2017.json
+
+
+INFO:root:Processing sources/US/WY/pheasant-2015.json
+INFO:root:Downloading https://opendata.arcgis.com/datasets/b58c3bb57b0a4a59b83b6a78400fdd43_0.geojson
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://opendata.arcgis.com/datasets/b58c3bb57b0a4a59b83b6a78400fdd43_0.geojson 
+
+
+INFO:root:Processing sources/US/WY/rockymountaingoat-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/RockyMountainGoatHuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/RockyMountainGoatHuntAreas.zip from local cache at cache/5b369eac4ea464ec7b24af275279b79b72239ada63e07af4f71a5f6e
+INFO:root:Reading RockyMountainGoatHuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 5 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.88767973696 radians
+ERROR:root:Y can not be computed for latitude -1.88767973696 radians
+ERROR:root:Error processing file sources/US/WY/rockymountaingoat-2016.json
+
+
+INFO:root:Processing sources/US/WY/sagegrouse-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/SageGrouse_HuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/SageGrouse_HuntAreas.zip from local cache at cache/cf08067a834d665d274b147ccd88bb8dc6b4445279b84cfcce4fe0b8
+INFO:root:Reading SageGrouse_HuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 4 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81607037873 radians
+ERROR:root:Y can not be computed for latitude -1.81607037873 radians
+ERROR:root:Error processing file sources/US/WY/sagegrouse-2016.json
+
+
+INFO:root:Processing sources/US/WY/turkey-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Turkey_HuntAreas.zip
+INFO:root:Returning https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Turkey_HuntAreas.zip from local cache at cache/4feeb264a1d2435e368ab672b6186de86b34948c0a29eeba202f8e87
+INFO:root:Reading Turkey_HuntAreas.zip
+INFO:fiona.ogrext:Failed to auto identify EPSG: 7
+INFO:root:skipped 0 features, kept 5 features, errored 0 features
+InvalidLatitudeError: Y can not be computed for latitude -1.81606400828 radians
+ERROR:root:Y can not be computed for latitude -1.81606400828 radians
+ERROR:root:Error processing file sources/US/WY/turkey-2016.json
+
+
+INFO:root:Processing sources/US/WY/walk-in-2018.json
+InvalidLatitudeError: Y can not be computed for latitude -1.81606374648 radians
+ERROR:root:Y can not be computed for latitude -1.81606374648 radians
+ERROR:root:Error processing file sources/US/WY/walk-in-2018.json
+
+
+INFO:root:Processing sources/US/WY/whitetaileddeer-2016.json
+INFO:root:Downloading https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/WhitetailDeerHuntAreas.zip
+/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+ERROR:root:Failed to download https://wgfd.wyo.gov/WGFD/media/content/Wildlife/Geospatial/Big%20Game/WhitetailDeerHuntAreas.zip 
+
+
+INFO:root:Processing sources/US/WY/whitetaileddeer-2017.json
+ERROR:root::
+  File "/home/solidsilver/.conda/envs/ohd/lib/python2.7/site-packages/fiona/collection.py", line 154, in __init__
+    self.session.start(self, **kwargs)
+  File "fiona/ogrext.pyx", line 484, in fiona.ogrext.Session.start
+  File "fiona/_shim.pyx", line 90, in fiona._shim.gdal_open_vector
+DriverError: '/tmp/tmpyo1w6E953b6697ecfd42e38e1107aa162e709c_0.geojson' not recognized as a supported file format.
+ERROR:root:'/tmp/tmpyo1w6E953b6697ecfd42e38e1107aa162e709c_0.geojson' not recognized as a supported file format.
+ERROR:root:Error processing file sources/US/WY/whitetaileddeer-2017.json
