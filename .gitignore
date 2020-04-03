@@ -126,3 +126,7 @@ cache
 localconfig.js
 *.mbtiles
 styles
+
+
+# IDE
+.vscode/
