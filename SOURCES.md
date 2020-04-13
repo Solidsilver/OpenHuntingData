@@ -90,3 +90,26 @@ Check sources-detailed-log.txt for Tracebacks and additional info (dev)
 - [ ] sources/US/WY/pheasant-2015.json
 - [ ] sources/US/WY/whitetaileddeer-2016.json
 - [ ] sources/US/WY/whitetaileddeer-2017.json
+
+### Failing States
+
+CO
+HI
+ID
+MI
+MN
+MT
+NC
+NJ
+NM
+NV
+OH
+OK
+OK
+PA
+TN
+UT
+VA
+WA
+WI
+WY
