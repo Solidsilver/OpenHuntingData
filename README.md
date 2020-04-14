@@ -52,3 +52,55 @@ This project is inspired by http://openaddresses.io/
     * scripts to merge/process GeoJson into master files
 
 * style sheets to make nice looking raster maps of the data, nationwide
+
+## Setup
+
+### Requirements
+
+* python3
+* anaconda or equivalent (miniconda, python-conda, etc.)
+
+Clone the repository and the sub-repo.
+
+```shell
+git clone git@github.com:https://github.com/Solidsilver/OpenHuntingData.git --recursive
+```
+
+* NOTE: Ensure to checkout the python3 branch of the sub-branch `Processing`
+
+Ensure you have a Conda distribution installed. Create a Conda env from python 3.6, then set the default channel to conda-forge.
+Enter the Conda env and install the requirements.
+
+```shell
+conda create -y --name <env_name> python=3.6
+conda activate <env_name>
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+conda install -y -q --file ./Processing/requirements.txt
+```
+
+Run the process script to download and compile from current sources.
+
+```shell
+/path/to/repo/process.sh
+```
+
+* NOTE: There may be additional dependencies. If it fails for this reason, run:
+
+  ```shell
+    conda install <missing_package>
+  ```
+
+## Converting to other formats
+
+The generated *.geojson files have the coordinats in lat/lng form. However, official geoJSON format specifies lng/lat. Another script rectifies this for ease in conversion to other formats.
+
+To swap the coordinates of a specifig geoJSOn file:
+
+```bash
+python swapgeojson.py -f ./path/to/file.geojson
+```
+
+### Mbtiles
+
+The tool [tippecanoe](https://github.com/mapbox/tippecanoe) from the mapbox project converts geoJSON files to mbtiles files. This requires the coordinates to be swapped first.
