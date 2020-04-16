@@ -32,6 +32,9 @@ else:
 print("Swapping coordinates")
 
 for feature in data['features']:
+  if (len(feature['geometry']['coordinates']) == 2):
+            swapCoords(feature['geometry']['coordinates'])
+  else:
     for coordinates in feature['geometry']['coordinates']:
         for coordinateHolder in coordinates:
           if (len(coordinateHolder) == 2):
