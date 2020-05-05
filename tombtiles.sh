@@ -3,15 +3,19 @@
 SOURCEDIR=./generated/US
 
 swap_coords() {
-    remove_swapped
+    echo "Swapping Coords"
+    # rm -r $SOURCEDIR/swapped
+    # mkdir $SOURCEDIR/swapped
+    [ ! -d "$SOURCEDIR/swapped" ] && mkdir $SOURCEDIR/swapped
     for dir in $SOURCEDIR/*/ ; do
-        mbdir="mbtiles/$(basename $dir)"
-        [ ! -d "$SOURCEDIR/$mbdir" ] && mkdir $SOURCEDIR/$mbdir
+        swpdir="swapped/$(basename $dir)"
+        [ ! -d "$SOURCEDIR/$swpdir" ] && mkdir $SOURCEDIR/$swpdir
         for file in $dir*.geojson; do
             filefull=$(basename -- "$file")
             extension="${filefull##*.}"
             filename="${filefull%.*}"
-            [ ! -f $dir$filename-swapped.geojson ] && python swapgeojson.py -f $file
+            # echo "[dir:$dir][swpdir:$swpdir][filename:$filename][file:$file]"
+            [ ! -f $SOURCEDIR/$swpdir/$filename.geojson ] && python swapgeojson.py -f $file -o $SOURCEDIR/$swpdir && echo "Swapped $swpdir"
         done
     done
 }
@@ -40,9 +44,9 @@ to_mbtiles() {
             filefull=$(basename -- "$file")
             extension="${filefull##*.}"
             filename="${filefull%.*}"
-            [ ! -f $dir$filename-swapped.geojson ] && python swapgeojson.py -f $file &&
+            [ ! -f $SOURCEDIR/$mbdir/$filename.mbtiles ] && python swapgeojson.py -f $file -l &&
             echo "Generating mbtiles"
-            tippecanoe -zg -o $SOURCEDIR/$mbdir/$filename.mbtiles --drop-densest-as-needed $dir$filename-swapped.geojson &&
+            tippecanoe -zg -o $SOURCEDIR/$mbdir/$filename.mbtiles --drop-densest-as-needed -n "$filename" $dir$filename-swapped.geojson &&
             echo "Converted $file to $SOURCEDIR/$mbdir/$filename.mbtiles"
             [ -f "$dir$filename-swapped.geojson" ] && rm $dir$filename-swapped.geojson
             echo ""
@@ -50,4 +54,5 @@ to_mbtiles() {
     done
 }
 
-to_mbtiles;
+swap_coords;
+# to_mbtiles;

@@ -1,0 +1,17 @@
+{
+  "name" : "MTBS Burn Area Boundary",
+  "url": "https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.MTBS_BURN_AREA_BOUNDARY.zip",
+  "description": "The Monitoring Trends in Burn Severity (MTBS) project assesses the frequency, extent, and magnitude (size and severity) of all large wildland fires (includes wildfire, wildland fire use, and prescribed fire) in the conterminous United States (CONUS), Alaska, Hawaii, and Puerto Rico for the period of 1984 through 2017.",
+  "attribution": "USDA Forest Service",
+  "properties": {
+     "fireid": "FIRE_ID",
+     "firename": "FIRE_NAME",
+     "year": "YEAR",
+     "startmon": "STARTMONTH"
+  },
+  "country": "US",
+  "state": "USDA",
+  "filetype": "shp",
+  "year": "2020",
+  "source": "https://data.fs.usda.gov/geodata/edw/datasets.php"
+}

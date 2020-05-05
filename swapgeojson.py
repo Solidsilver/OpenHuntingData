@@ -11,15 +11,30 @@ def swapCoords(coords):
 
 args = sys.argv[1:]
 print(args)
-if (args.index('-f') >= 0):
+try:
+  args.index('-f') >= 0
   f_read = args[args.index('-f') + 1]
   filename = Path(f_read).stem
   filedir = path.dirname(f_read)
-else:
+except:
   filename = "deer"
   filedir = "./generated/US/AR"
   f_read = filedir + '/' +filename + '.geojson'
   print("No file specified (-f), defaulting to: " + f_read)
+
+try:
+  args.index('-o') >= 0
+  outdir = args[args.index('-o') + 1]
+except:
+  outdir = filedir
+
+try:
+  args.index('-l') >= 0
+  newfname = filename + "-swapped"
+except:
+  newfname = filename
+
+
 
 print("Opening file: " + f_read)
 if (path.exists(f_read)):
@@ -45,8 +60,7 @@ for feature in data['features']:
 
 print("Coordinates swapped.")
 
-newfname = filename + "-swapped"
-with open(filedir + '/' + newfname + '.geojson', 'w') as json_file:
+with open(outdir + '/' + newfname + '.geojson', 'w') as json_file:
   json.dump(data, json_file)
   print("New file is: " + json_file.name)
 

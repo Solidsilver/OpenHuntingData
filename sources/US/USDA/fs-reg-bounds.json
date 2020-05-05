@@ -1,0 +1,17 @@
+{
+  "name" : "Forest Service Regional Boundaries",
+  "url": "https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.AdministrativeRegion.zip",
+  "description": "An area encompassing all the National Forest System lands administered by a Region. The area encompasses private lands, other governmental agency lands. All National Forest System lands fall within one and only one Administrative Region Area.",
+  "attribution": "USDA Forest Service",
+  "properties": {
+     "id": "ADMINREGIO",
+     "region": "REGION",
+     "name": "REGIONNAME",
+     "reghq": "REGIONHEAD"
+  },
+  "country": "US",
+  "state": "USDA",
+  "filetype": "shp",
+  "year": "2020",
+  "source": "https://data.fs.usda.gov/geodata/edw/datasets.php"
+}

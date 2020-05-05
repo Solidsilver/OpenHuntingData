@@ -1,0 +1,19 @@
+{
+  "name" : "Ranger District Boundaries",
+  "url": "https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.RangerDistrict.zip",
+  "description": "A depiction of the boundary that encompasses a Ranger District.",
+  "attribution": "USDA Forest Service",
+  "properties": {
+     "id": "RANGERDIST",
+     "region": "REGION",
+     "forestnum": "FORESTNUMB",
+     "distnum": "DISTRICTNU",
+     "fname": "FORESTNAME",
+     "distname": "DISTRICTNA"
+  },
+  "country": "US",
+  "state": "USDA",
+  "filetype": "shp",
+  "year": "2020",
+  "source": "https://data.fs.usda.gov/geodata/edw/datasets.php"
+}

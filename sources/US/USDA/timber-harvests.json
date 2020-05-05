@@ -1,0 +1,23 @@
+{
+  "name" : "Timber Harvests",
+  "url": "https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.Activity_TimberHarvest.zip",
+  "description": "The TimeberHarvest feature class depicts the area planned and accomplished acres treated as a part of the Timber Harvest program of work, funded through the budget allocation process and reported through the Forest Service Activity Tracking System (FACTS) database within the Natural Resource Manager (NRM) suite of applications. Activities are self-reported by Forest Service Units.",
+  "attribution": "USDA Forest Service",
+  "properties": {
+     "fst-code": "ADMIN_FORE",
+     "reg-code": "ADMIN_REGI",
+     "fst-name": "ADMIN_FO_1",
+     "adm-dist-name": "ADMIN_DIST",
+     "adm-dist-code": "ADMIN_DI_1",
+     "sale-name": "SALE_NAME",
+     "date-planned": "DATE_PLANNED",
+     "date-awarded": "DATE_AWARD",
+     "date-completed": "DATE_COMPLET",
+     "uid": "UNIT_ID"
+  },
+  "country": "US",
+  "state": "USDA",
+  "filetype": "shp",
+  "year": "2020",
+  "source": "https://data.fs.usda.gov/geodata/edw/datasets.php"
+}

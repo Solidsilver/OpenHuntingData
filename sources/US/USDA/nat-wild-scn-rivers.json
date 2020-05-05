@@ -1,0 +1,19 @@
+{
+  "name" : "National Wild and Scenic Rivers",
+  "url": "https://data.fs.usda.gov/geodata/edw/edw_resources/shp/S_USA.WildScenicRiver.zip",
+  "description": "A boundary depicting an area that has been designated as a National Wild, Scenic or Recreational River in the National Wild and Scenic River System.",
+  "attribution": "USDA Forest Service",
+  "properties": {
+     "id": "WILDSCENIC",
+     "desgname": "DESIGNATED",
+     "river": "RIVER",
+     "aid": "AREAID",
+     "status": "BOUNDARYST",
+     "class": "CLASSIFICA"
+  },
+  "country": "US",
+  "state": "USDA",
+  "filetype": "shp",
+  "year": "2020",
+  "source": "https://data.fs.usda.gov/geodata/edw/datasets.php"
+}
